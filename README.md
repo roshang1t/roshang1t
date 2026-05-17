@@ -13,6 +13,9 @@
 </a><a target="_blank" rel="noopener noreferrer" href="https://lookforme.online">
 <img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=portfolio&logoColor=white" />
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://x.com/atworkcody">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/atworkcody">
+</a>
 
 #### I'm a student developer who believes in turning caffeine into clean, beautiful code. ☕ My happy place is bringing ideas to life, whether it's a mobile app that connects people or a backend that just works. I'm fueled by curiosity and the endless pursuit of building something awesome.
 
